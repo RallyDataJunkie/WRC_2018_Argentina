@@ -37,7 +37,6 @@
   - [SS14 - LOS GIGANTES - CUCHILLA NEVADA (II) - Live TV](SS14_report.md)
   - [SS15 - CUCHILLA NEVADA - RIO PINTOS (II)](SS15_report.md)
 
-
 * [Section 9](Section 9_report.md)
   - [SS16 - COPINA - EL CONDOR (Live TV)](SS16_report.md)
   - [SS17 - GIULIO CESARE - MINA CLAVERO](SS17_report.md)
