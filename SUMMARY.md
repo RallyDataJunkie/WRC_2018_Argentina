@@ -24,7 +24,6 @@
   - [SS7 - AMBOY - YACANTO (II)](SS7_report.md)
   - [SS8 - SANTA ROSA - SAN AGUSTIN (II)](SS8_report.md)
 
-
 * [Section 6](Section 6_report.md)
   - [SS9 - TANTI - MATADEROS (I) ](SS9_report.md)
   - [SS10 - LOS GIGANTES - CUCHILLA NEVADA (I) - Live TV](SS10_report.md)
@@ -37,3 +36,10 @@
   - [SS13 - TANTI - MATADEROS (II) ](SS13_report.md)
   - [SS14 - LOS GIGANTES - CUCHILLA NEVADA (II) - Live TV](SS14_report.md)
   - [SS15 - CUCHILLA NEVADA - RIO PINTOS (II)](SS15_report.md)
+
+* [Section 9](Section 9_report.md)
+  - [SS16 - COPINA - EL CONDOR (Live TV)](SS16_report.md)
+  - [SS17 - GIULIO CESARE - MINA CLAVERO](SS17_report.md)
+
+* [Section 10](Section 10_report.md)
+  - [SS18 - Power Stage EL CONDOR (Live TV)](SS18_report.md)
